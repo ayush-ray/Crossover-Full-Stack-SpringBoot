@@ -1,0 +1,3 @@
+com\company\resourceapi\AppTest.class
+com\company\resourceapi\services\ProjectServiceImplTest.class
+com\company\resourceapi\services\ProjectServiceImplTest$ProjectServiceImplTestConfiguration.class

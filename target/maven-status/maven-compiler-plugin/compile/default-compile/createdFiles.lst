@@ -1,0 +1,8 @@
+com\company\resourceapi\Application.class
+com\company\resourceapi\repositories\ProjectRepository.class
+com\company\resourceapi\services\ProjectServiceImpl.class
+com\company\resourceapi\entities\Project.class
+com\company\resourceapi\entities\SdlcSystem.class
+com\company\resourceapi\controllers\ProjectRestController.class
+com\company\resourceapi\repositories\SdlcSystemRepository.class
+com\company\resourceapi\services\ProjectService.class
